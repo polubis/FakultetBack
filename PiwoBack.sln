@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiwoBack.API", "PiwoBack.API\PiwoBack.API.csproj", "{38078E5B-013F-44A9-8836-751FDAB929F3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiwoBack.Data", "PiwoBack.Data\PiwoBack.Data.csproj", "{CB663066-BCFB-4230-BAC9-6F5898771716}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PiwoBack.Repository", "PiwoBack.Repository\PiwoBack.Repository.csproj", "{0E7B13C7-C7FD-4463-8FCD-63EB8103A6EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiwoBack.Services", "PiwoBack.Services\PiwoBack.Services.csproj", "{19429D97-9B8F-4604-9D76-EEB864312DAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38078E5B-013F-44A9-8836-751FDAB929F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38078E5B-013F-44A9-8836-751FDAB929F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38078E5B-013F-44A9-8836-751FDAB929F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38078E5B-013F-44A9-8836-751FDAB929F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB663066-BCFB-4230-BAC9-6F5898771716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB663066-BCFB-4230-BAC9-6F5898771716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB663066-BCFB-4230-BAC9-6F5898771716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB663066-BCFB-4230-BAC9-6F5898771716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7B13C7-C7FD-4463-8FCD-63EB8103A6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7B13C7-C7FD-4463-8FCD-63EB8103A6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7B13C7-C7FD-4463-8FCD-63EB8103A6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7B13C7-C7FD-4463-8FCD-63EB8103A6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19429D97-9B8F-4604-9D76-EEB864312DAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19429D97-9B8F-4604-9D76-EEB864312DAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19429D97-9B8F-4604-9D76-EEB864312DAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19429D97-9B8F-4604-9D76-EEB864312DAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E61DA995-0883-4FA8-9B9D-6EF97C93C515}
+	EndGlobalSection
+EndGlobal

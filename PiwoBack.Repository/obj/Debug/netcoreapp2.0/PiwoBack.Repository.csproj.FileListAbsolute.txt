@@ -1,0 +1,11 @@
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.Repository\bin\Debug\netcoreapp2.0\PiwoBack.Repository.deps.json
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.Repository\bin\Debug\netcoreapp2.0\PiwoBack.Repository.dll
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.Repository\bin\Debug\netcoreapp2.0\PiwoBack.Repository.pdb
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.Repository\bin\Debug\netcoreapp2.0\PiwoBack.Data.dll
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.Repository\bin\Debug\netcoreapp2.0\PiwoBack.Data.pdb
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.Repository\obj\Debug\netcoreapp2.0\PiwoBack.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.Repository\obj\Debug\netcoreapp2.0\PiwoBack.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.Repository\obj\Debug\netcoreapp2.0\PiwoBack.Repository.AssemblyInfoInputs.cache
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.Repository\obj\Debug\netcoreapp2.0\PiwoBack.Repository.AssemblyInfo.cs
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.Repository\obj\Debug\netcoreapp2.0\PiwoBack.Repository.dll
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.Repository\obj\Debug\netcoreapp2.0\PiwoBack.Repository.pdb
