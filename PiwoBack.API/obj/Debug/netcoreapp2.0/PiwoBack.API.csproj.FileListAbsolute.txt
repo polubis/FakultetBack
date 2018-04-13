@@ -1,0 +1,17 @@
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\bin\Debug\netcoreapp2.0\PiwoBack.API.deps.json
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\bin\Debug\netcoreapp2.0\PiwoBack.API.runtimeconfig.json
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\bin\Debug\netcoreapp2.0\PiwoBack.API.runtimeconfig.dev.json
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\bin\Debug\netcoreapp2.0\PiwoBack.API.dll
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\bin\Debug\netcoreapp2.0\PiwoBack.API.pdb
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\bin\Debug\netcoreapp2.0\PiwoBack.Data.dll
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\bin\Debug\netcoreapp2.0\PiwoBack.Repository.dll
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\bin\Debug\netcoreapp2.0\PiwoBack.Services.dll
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\bin\Debug\netcoreapp2.0\PiwoBack.Repository.pdb
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\bin\Debug\netcoreapp2.0\PiwoBack.Services.pdb
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\bin\Debug\netcoreapp2.0\PiwoBack.Data.pdb
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\obj\Debug\netcoreapp2.0\PiwoBack.API.csprojResolveAssemblyReference.cache
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\obj\Debug\netcoreapp2.0\PiwoBack.API.csproj.CoreCompileInputs.cache
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\obj\Debug\netcoreapp2.0\PiwoBack.API.AssemblyInfoInputs.cache
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\obj\Debug\netcoreapp2.0\PiwoBack.API.AssemblyInfo.cs
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\obj\Debug\netcoreapp2.0\PiwoBack.API.dll
+C:\Users\Adrianek\Desktop\ZespołowyBackend\PiwoBack.API\obj\Debug\netcoreapp2.0\PiwoBack.API.pdb
